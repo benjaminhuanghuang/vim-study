@@ -1,0 +1,5 @@
+
+Create ~/.vimrc
+
+
+## .vimrc
